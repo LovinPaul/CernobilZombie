@@ -1,0 +1,16 @@
+maximized = true
+width = 1366
+height = 600
+ip = 78.97.157.147
+tcpPort = 4242
+udpOutPort = 4243
+udpInPort = 4244
+goUp = 87
+goDown = 83
+goLeft = 65
+goRight = 68
+reloadKey = 82
+chatAreaKey = 67
+chatInputKey = 84
+mouseSensitivity = 0.5
+name = Javatar
